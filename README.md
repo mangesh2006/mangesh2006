@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skills
+
+### Programming Languages
+- C++
+- Java
+- JavaScript
+- PHP
+
+### Web Development
+- HTML, CSS, Tailwind CSS
+- JavaScript (DOM Manipulation)
+- PHP (Database Connectivity)
+
+### Databases
+- MySQL
+
+### Tools
+- Visual Studio Code
+- XAMPP
+- Android Studio
+
+### Other
+- Problem Solving
+- Basic Computer Graphics
