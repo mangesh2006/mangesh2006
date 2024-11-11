@@ -1,4 +1,4 @@
-## ![Skills Icon](https://cdn-icons-png.freepik.com/128/6932/6932021.png) Skills
+## <img src="https://cdn-icons-png.freepik.com/128/6932/6932021.png" width="30" height="30" /> Skills
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
