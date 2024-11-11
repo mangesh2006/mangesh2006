@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 
 ### Programming Languages
 - C++
-- Java
 - JavaScript
 - PHP
 
 ### Web Development
-- HTML, CSS, Tailwind CSS
+- HTML, CSS
 - JavaScript (DOM Manipulation)
 - PHP (Database Connectivity)
 
@@ -33,8 +32,6 @@ Here are some ideas to get you started:
 ### Tools
 - Visual Studio Code
 - XAMPP
-- Android Studio
 
-### Other
-- Problem Solving
-- Basic Computer Graphics
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
