@@ -1,4 +1,4 @@
-## <img src="https://img.icons8.com/fluency/48/000000/skills.png" width="25"/> Skills
+## ![Skills Icon](https://img.icons8.com/ios/452/skills.png) Skills
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
